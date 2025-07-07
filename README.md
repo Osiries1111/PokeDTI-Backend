@@ -1,5 +1,5 @@
-# Mish_backend_25-1
-Proyecto backend 25-1
+# PokeDTI
+Proyecto PokeDTI
 
 Deploy in: [Render](https://mish-backend-25-1.onrender.com).
 
