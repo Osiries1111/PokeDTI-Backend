@@ -8,6 +8,6 @@ Deploy in: [Render](https://mish-backend-25-1.onrender.com).
 [Documentación de nuestra API RESTful](docs/api.md)
 
 ## Equipo de desarrollo
-- Javier Larré
-- Gonzalo Barrueto
-- Osiris Díaz
+- Javier Larré -> [JavierLarre](https://github.com/JavierLarre)
+- Gonzalo Barrueto -> [gbarrueto](https://github.com/gbarrueto)
+- Osiris Díaz -> [Osiries1111](https://github.com/Osiries1111)
